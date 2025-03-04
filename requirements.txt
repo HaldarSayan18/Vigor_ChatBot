@@ -1,0 +1,19 @@
+streamlit
+transformers
+tensorflow
+nltk
+tf-keras
+
+# to create virtual env
+# python -m venv 'env-name'
+# to install dependencies or packages from requirement.txt
+# pip install -r ./requirements.txt
+# to run on server
+# streamlit run ./VigorBot.py
+
+
+# create env using conda
+#conda create -p "folder_name" python=3.10
+
+# to activate
+# conda activate "name"
